@@ -1,0 +1,36 @@
+{
+    "BoundingBox": {
+        "Height": 0.23472699522972107,
+        "Left": 0.3329649865627289,
+        "Top": 0.1507139950990677,
+        "Width": 0.17806899547576904
+    },
+    "Confidence": 99.99520111083984,
+    "ExternalImageId": "Dipendra",
+    "FaceId": "39b0fbb3-5604-440a-a5d8-6f6ddec20fdb",
+    "ImageId": "e32bbc77-8a80-3efa-baef-38d4eaf64321"
+}
+{
+    "BoundingBox": {
+        "Height": 0.2984279990196228,
+        "Left": 0.40787699818611145,
+        "Top": 0.25274500250816345,
+        "Width": 0.23637700080871582
+    },
+    "Confidence": 99.99909973144531,
+    "ExternalImageId": "Pawan",
+    "FaceId": "8d528443-47cd-4219-8f7e-ac8bb3cb4835",
+    "ImageId": "3b4b3aa7-7bc8-30bd-b9b5-675d58dd1575"
+}
+{
+    "BoundingBox": {
+        "Height": 0.23468899726867676,
+        "Left": 0.434563010931015,
+        "Top": 0.27105599641799927,
+        "Width": 0.15943199396133423
+    },
+    "Confidence": 99.99539947509766,
+    "ExternalImageId": "Sundar",
+    "FaceId": "9de9c665-6c30-4501-89cc-8703076a232b",
+    "ImageId": "89ee54d4-fd09-3efe-a5ad-e1843f255b2a"
+}
